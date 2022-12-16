@@ -4,7 +4,7 @@
   "config_flow": true,
   "documentation": "https://github.com/SoloMen88/GyverLamp2HA",
   "issue_tracker": "https://github.com/SoloMen88/GyverLamp2HA/issues",
-  "codeowners": ["SoloMen88"],
+  "codeowners": ["@SoloMen88"],
   "dependencies": [],
   "requirements": [],
   "version": "1.0.1",
