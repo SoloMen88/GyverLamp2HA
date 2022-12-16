@@ -1,7 +1,7 @@
 from homeassistant.config_entries import ConfigEntry
 from homeassistant.core import HomeAssistant
 
-DOMAIN = 'gyverlamp'
+DOMAIN = 'gyverlamp2ha'
 
 
 async def async_setup(hass, hass_config):
